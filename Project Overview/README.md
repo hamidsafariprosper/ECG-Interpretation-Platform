@@ -4,3 +4,5 @@ even in urban area still there is a shortage of tained physicians who are able t
 OUR VISSION
 Build an affordable, easy to use, AI tool that turns paper or simple ECG paper into reliable clinical interpretations, usable offline (Due to limieted internet in rural areas) for primary care setting sin Tanznaia
 
+
+
